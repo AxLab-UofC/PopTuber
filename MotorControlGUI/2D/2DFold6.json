@@ -1,0 +1,145 @@
+{
+  "name": "Untitled",
+  "motors": [
+    {
+      "address": "127.0.0.1:5005",
+      "actions": [
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": 3
+        },
+        {
+          "duration": 0.5,
+          "type": "ABSOLUTE",
+          "speed": 254
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": 1
+        },
+        {
+          "duration": 0.5,
+          "type": "ABSOLUTE",
+          "speed": 254
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": 3
+        },
+        {
+          "duration": 0.5,
+          "type": "ABSOLUTE",
+          "speed": 254
+        }
+      ]
+    },
+    {
+      "address": "127.0.0.1:5005",
+      "actions": [
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": -3
+        },
+        {
+          "duration": 0.5,
+          "type": "ABSOLUTE",
+          "speed": 254
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": -1
+        },
+        {
+          "duration": 0.5,
+          "type": "ABSOLUTE",
+          "speed": 254
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": -3
+        },
+        {
+          "duration": 0.5,
+          "type": "ABSOLUTE",
+          "speed": 254
+        }
+      ]
+    },
+    {
+      "address": "127.0.0.1:5005",
+      "actions": [
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": -1
+        },
+        {
+          "duration": 0.5,
+          "type": "ABSOLUTE",
+          "speed": 254
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": 1
+        },
+        {
+          "duration": 0.5,
+          "type": "ABSOLUTE",
+          "speed": 254
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": -1
+        },
+        {
+          "duration": 0.5,
+          "type": "ABSOLUTE",
+          "speed": 254
+        }
+      ]
+    },
+    {
+      "address": "127.0.0.1:5005",
+      "actions": [
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": -3
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": 0
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": -1
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": 0
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": -3
+        },
+        {
+          "duration": 0.5,
+          "type": "SPEED",
+          "speed": 0
+        }
+      ]
+    }
+  ]
+}

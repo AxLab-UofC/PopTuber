@@ -1,0 +1,80 @@
+{
+  "name": "FEED",
+  "motors": [
+    {
+      "address": "127.0.0.1:5005",
+      "actions": [
+        {
+          "duration": 0.3,
+          "type": "SPEED",
+          "speed": 4
+        },
+        {
+          "duration": 0.3,
+          "type": "ABSOLUTE",
+          "speed": 254
+        }
+      ]
+    },
+    {
+      "address": "127.0.0.1:5005",
+      "actions": [
+        {
+          "duration": 0.3,
+          "type": "SPEED",
+          "speed": -4
+        },
+        {
+          "duration": 0.3,
+          "type": "ABSOLUTE",
+          "speed": 254
+        }
+      ]
+    },
+    {
+      "address": "127.0.0.1:5005",
+      "actions": [
+        {
+          "duration": 0.3,
+          "type": "SPEED",
+          "speed": 4
+        },
+        {
+          "duration": 0.3,
+          "type": "ABSOLUTE",
+          "speed": 254
+        }
+      ]
+    },
+    {
+      "address": "127.0.0.1:5005",
+      "actions": [
+        {
+          "duration": 0.3,
+          "type": "SPEED",
+          "speed": -4
+        },
+        {
+          "duration": 0.3,
+          "type": "SPEED",
+          "speed": 0
+        }
+      ]
+    },
+    {
+      "address": "127.0.0.1:5005",
+      "actions": [
+        {
+          "duration": 0.3,
+          "type": "SPEED",
+          "speed": 0
+        },
+        {
+          "duration": 0.3,
+          "type": "SPEED",
+          "speed": 0
+        }
+      ]
+    }
+  ]
+}
