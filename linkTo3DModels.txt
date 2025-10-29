@@ -1,0 +1,20 @@
+
+
+These models are designed around an existing pop tube, and can be adapted to other tube geometries.
+
+Full assembly for an overview: https://a360.co/4ogXjJq
+
+Latest components:
+1) quadra-gear extruder
+Holder: https://a360.co/47j4RFC
+Feed gear (bottomL and R): https://a360.co/4od6Lxc
+Shape gear (top left): https://a360.co/3JbLs01
+Multi-tooth gear: https://a360.co/49q0VnE
+Gear mount (between motor and gear): 
+
+2) rotator
+https://a360.co/47sdmN9
+
+
+
+
