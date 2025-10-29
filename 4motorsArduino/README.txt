@@ -1,1 +1,0 @@
-Arduino code for the quadra-gear set without the rotator (4-motor). 
