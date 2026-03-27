@@ -1,1 +1,5 @@
 # PopTuber
+
+The vision of programmable matter -- materials that can change shape or properties in a programmable way -- has inspired decades of research across robotics, materials science, and HCI. However, many line-based actuated systems struggle to achieve fine-grained geometries, due to motor size, cost, and control complexity. In this repo, we opensource PopTuber, a novel approach to dynamically generate high-resolution 3D curves using passive, low-cost, multistable pop tubes. Instead of chaining actuators, our system leverages the densely arranged bellows with discrete mechanical states, collapsed, expanded, or folded, to represent and construct arbitrary curves. We present the Shaper, a device that uses only five servo motors to reconfigure tubes of any length and curved segments. Alongside the hardware, we provide design guidelines that allow our shaping principle to scale for different tube sizes, a software pipeline that can simulate the tube geometry and execute motor cmmands, and an evaluation of shaping performance and scalability. 
+
+paper link: https://dl.acm.org/doi/full/10.1145/3731459.3773321
