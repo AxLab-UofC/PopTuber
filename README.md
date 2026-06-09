@@ -5,38 +5,46 @@ The vision of programmable matter -- materials that can change shape or properti
 Project link: https://www.axlab.cs.uchicago.edu/projects/poptuber
 
 We've included all the 3D models in linkTo3DModels.txt, but we understand that hardware replication is not easy, especially for a complex mechatronics system like PopTuber. Therefore, we also included some pictures of the teardown/assembly of our Shaper device: 
+## Device Overview
 
-**Device overview:**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e722f75-d288-4646-81cc-1229b750540d" width="220" alt="Device overview 1">
+  <img src="https://github.com/user-attachments/assets/22e7224d-a08a-4387-851c-7f22ce3311c8" width="220" alt="Device overview 2">
+  <img src="https://github.com/user-attachments/assets/6e1cca3d-8acc-43e6-b029-6efa0b737974" width="220" alt="Device overview 3">
+  <img src="https://github.com/user-attachments/assets/5d4ed002-92d4-4cab-be27-8ab6c4f13363" width="220" alt="Device overview 4">
+  <img src="https://github.com/user-attachments/assets/05bc5f84-3e5a-4936-a020-feb2d2d5964f" width="220" alt="Device overview 5">
+</p>
 
-<img width="3024" height="4032" alt="IMG_0350" src="https://github.com/user-attachments/assets/4e722f75-d288-4646-81cc-1229b750540d" />
-<img width="3024" height="4032" alt="IMG_0349" src="https://github.com/user-attachments/assets/22e7224d-a08a-4387-851c-7f22ce3311c8" />
-<img width="3024" height="4032" alt="IMG_0348" src="https://github.com/user-attachments/assets/6e1cca3d-8acc-43e6-b029-6efa0b737974" />
-<img width="3024" height="4032" alt="IMG_0347" src="https://github.com/user-attachments/assets/5d4ed002-92d4-4cab-be27-8ab6c4f13363" />
-<img width="3024" height="4032" alt="IMG_0346" src="https://github.com/user-attachments/assets/05bc5f84-3e5a-4936-a020-feb2d2d5964f" />
+## Quadra-Gear Extruder
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3fcda644-1bb3-4477-94b7-6a55225b1de0" width="220" alt="Quadra-gear extruder 1">
+  <img src="https://github.com/user-attachments/assets/052bc89a-6208-41e0-bfba-c2a9479e46ee" width="220" alt="Quadra-gear extruder 2">
+  <img src="https://github.com/user-attachments/assets/1cacb389-d6da-445a-85db-9027f1a3e320" width="220" alt="Quadra-gear extruder 3">
+  <img src="https://github.com/user-attachments/assets/36bc3995-2d06-4d8a-9af8-160ec20f946a" width="220" alt="Quadra-gear extruder 4">
+</p>
 
-**Quadra-gear extruder:**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b84777d0-29e1-4251-980c-1866c666851c" width="220" alt="Quadra-gear extruder 5">
+  <img src="https://github.com/user-attachments/assets/0c5391c9-e4a4-4322-9f14-8a822e126759" width="220" alt="Quadra-gear extruder 6">
+  <img src="https://github.com/user-attachments/assets/6af6c2c7-3152-4562-bc73-0f46835eae9c" width="220" alt="Quadra-gear extruder 7">
+  <img src="https://github.com/user-attachments/assets/35007a35-6390-4731-b27a-b37e52505da0" width="220" alt="Quadra-gear extruder 8">
+</p>
 
+## Rotator
 
-<img width="3024" height="4032" alt="IMG_0354" src="https://github.com/user-attachments/assets/3fcda644-1bb3-4477-94b7-6a55225b1de0" />
-<img width="3024" height="4032" alt="IMG_0353" src="https://github.com/user-attachments/assets/052bc89a-6208-41e0-bfba-c2a9479e46ee" />
-<img width="3024" height="4032" alt="IMG_0358" src="https://github.com/user-attachments/assets/1cacb389-d6da-445a-85db-9027f1a3e320" />
-<img width="3024" height="4032" alt="IMG_0352" src="https://github.com/user-attachments/assets/36bc3995-2d06-4d8a-9af8-160ec20f946a" />
-<img width="3024" height="4032" alt="IMG_0345" src="https://github.com/user-attachments/assets/b84777d0-29e1-4251-980c-1866c666851c" />
-<img width="3024" height="4032" alt="IMG_0344" src="https://github.com/user-attachments/assets/0c5391c9-e4a4-4322-9f14-8a822e126759" />
-<img width="3024" height="4032" alt="IMG_0343" src="https://github.com/user-attachments/assets/6af6c2c7-3152-4562-bc73-0f46835eae9c" />
-<img width="3024" height="4032" alt="IMG_0351" src="https://github.com/user-attachments/assets/35007a35-6390-4731-b27a-b37e52505da0" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/efa59740-a810-41fb-b0a1-3f5d6e5883a9" width="220" alt="Rotator 1">
+  <img src="https://github.com/user-attachments/assets/335c6645-2d62-4f89-a4cd-25053f189b02" width="220" alt="Rotator 2">
+  <img src="https://github.com/user-attachments/assets/a32aad52-f876-4935-95b8-b64508df1639" width="220" alt="Rotator 3">
+  <img src="https://github.com/user-attachments/assets/cb965df5-5137-4cb3-ba68-3a01a0363678" width="300" alt="Rotator 4">
+</p>
 
-**Rotator:**
-
-<img width="3024" height="4032" alt="IMG_0356" src="https://github.com/user-attachments/assets/efa59740-a810-41fb-b0a1-3f5d6e5883a9" />
-<img width="3024" height="4032" alt="IMG_0357" src="https://github.com/user-attachments/assets/335c6645-2d62-4f89-a4cd-25053f189b02" />
-<img width="3024" height="4032" alt="IMG_0355" src="https://github.com/user-attachments/assets/a32aad52-f876-4935-95b8-b64508df1639" />
-<img width="4032" height="3024" alt="IMG_0360" src="https://github.com/user-attachments/assets/cb965df5-5137-4cb3-ba68-3a01a0363678" />
-<img width="4032" height="3024" alt="IMG_0359" src="https://github.com/user-attachments/assets/0b67559c-756c-49ac-a043-479b0b7b6678" />
-<img width="3024" height="4032" alt="IMG_0362" src="https://github.com/user-attachments/assets/8470d60d-56af-42be-a905-f4e8602b6e7e" />
-<img width="3024" height="4032" alt="IMG_0361" src="https://github.com/user-attachments/assets/f458387a-227a-4999-b504-dc9a161e1ef2" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b67559c-756c-49ac-a043-479b0b7b6678" width="300" alt="Rotator 5">
+  <img src="https://github.com/user-attachments/assets/8470d60d-56af-42be-a905-f4e8602b6e7e" width="220" alt="Rotator 6">
+  <img src="https://github.com/user-attachments/assets/f458387a-227a-4999-b504-dc9a161e1ef2" width="220" alt="Rotator 7">
+</p>
 
 The End.
 
